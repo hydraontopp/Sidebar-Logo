@@ -1,0 +1,18 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "§4A Logo that can be displayed at the top of a sidebar\nCreated by: CarrotStickCam\n\nManual changes may be required to fit your own sidebar in a more centred position. Might later release a version being a controller of the hud_title_text. Can't be bothered rn lmfao.",
+        "name": "§c§lSIDEBAR LOGO §r§4V0.02",
+        "uuid": "7cd0c27c-11c6-4dfd-a6de-045fb491f199",
+        "version": [0, 0, 1],
+        "min_engine_version": [ 1, 16, 100 ]
+    },
+    "modules": [
+        {
+            "description": "§4A Logo that can be displayed at the top of a sidebar\nCreated by: CarrotStickCam\n\nManual changes may be required to fit your own sidebar in a more centred position. Might later release a version being a controller of the hud_title_text. Can't be bothered rn lmfao.",
+            "type": "resources",
+            "uuid": "602de147-79b9-447a-85f9-9e5255e0cc99",
+            "version": [0, 0, 1]
+        }
+    ]
+}
